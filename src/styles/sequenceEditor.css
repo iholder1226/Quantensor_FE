@@ -1,0 +1,18 @@
+.sequenceEditor{
+   display:grid; 
+    position: relative;
+    border-radius: 2px;
+    background-color:rgb(32, 38, 39);
+    font-size:12px;
+   /*  direction: rtl;*/
+   
+    /*overflow: auto;*/
+    align-items:center;
+    justify-content: center;
+  grid-auto-flow: column;
+  column-gap: 1vw;
+    width:100%;
+    height:30vh;
+    float:left;
+
+}

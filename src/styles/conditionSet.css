@@ -1,0 +1,26 @@
+.conditionSet{
+    position:relative;
+   /* display:grid;
+    grid-row: auto;
+    align-items:center;
+    place-items: center;*/
+    margin:auto;
+    height:90%;
+    width:35vw;
+    background-color:rgb(36, 28, 54);
+    float:left;
+    border-radius: 5px;
+    border-color: rgb(2, 98, 98);
+   border-style:solid;
+    
+}
+.conditionSet ul{ 
+    display:inline;
+    place-items: center;
+    border-bottom-color:white;;
+}
+.conditionSet li{
+    float:left;
+    color:white;
+}
+
